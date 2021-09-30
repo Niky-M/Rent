@@ -12,7 +12,6 @@
     <Folder Include="Data\" />
     <Folder Include="Infrastructure\" />
     <Folder Include="Swrvices\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
   <ItemGroup>
