@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Wondows\Training\" />
-    <Folder Include="Wondows\Service\" />
+    <Folder Include="Views\Windows\Training\" />
+    <Folder Include="Views\Windows\Service\" />
+    <Folder Include="Data\" />
+    <Folder Include="Infrastructure\" />
+    <Folder Include="Swrvices\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 
   <ItemGroup>
