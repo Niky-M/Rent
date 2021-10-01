@@ -18,6 +18,16 @@ namespace Rent.Wondows.Rent
         }
 
         // кнопки навигации
+        private void EquipmentButton(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void SettingsButton(object sender, RoutedEventArgs e)
+        {
+
+        }
+
         private void BackToAuthorizationButton(object sender, RoutedEventArgs e)
         {
 
