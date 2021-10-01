@@ -10,7 +10,6 @@
     <Folder Include="Views\Windows\Training\" />
     <Folder Include="Views\Windows\Service\" />
     <Folder Include="Data\" />
-    <Folder Include="Infrastructure\" />
     <Folder Include="Swrvices\" />
   </ItemGroup>
 
